@@ -1,4 +1,4 @@
-# SliceAgent (first review build)
+# SliceManager (first review build)
 
 Work in progress.
 
